@@ -20,5 +20,15 @@ an ios chat application for dogs owners
               </td> 
              </td> 
         </tr>
+          <tr> 
+              <td>
+                <img src="4.png"/>
+              </td> 
+              <td> 
+                <img src="5.png"/>
+              </td> 
+             </td> 
+        </tr>
     </tbody>
     </table>
+
