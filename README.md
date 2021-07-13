@@ -2,4 +2,23 @@
 an ios chat application for dogs owners
 
 ## dashboard
-![](Screenshot from 2021-07-13 16-06-06.png)
+![](1.png)
+
+
+<table>
+    <thead>
+        <th></th>
+        <th></th>
+    </thead>
+    <tbody>
+          <tr> 
+              <td>
+                <img src="2.png"/>
+              </td> 
+              <td> 
+                <img src="3.png"/>
+              </td> 
+             </td> 
+        </tr>
+    </tbody>
+    </table>
